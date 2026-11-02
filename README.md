@@ -27,8 +27,6 @@ The ball speeds up by 5.5% after every paddle hit, up to a safe maximum. The ral
 
 ## Gameplay screenshot and demo
 
-Click the gameplay screenshot to open the video:
+[![RALLY gameplay — click to watch](gameplay.png)](pong.mov)
 
-[![RALLY gameplay — click to watch](screenshots/gameplay.png)](demo/pong.mov)
-
-[Open or download the full gameplay video (MOV)](demo/pong.mov)
+[Open or download the gameplay video](pong.mov)
