@@ -25,11 +25,10 @@ love .
 
 The ball speeds up by 5.5% after every paddle hit, up to a safe maximum. The rally counter displays the number of consecutive paddle returns, making longer exchanges feel more exciting.
 
-## Screenshot
+## Gameplay screenshot and demo
 
-![RALLY gameplay](screenshots/gameplay.png)
+Click the gameplay screenshot to open the video:
 
-## Demo video
+[![RALLY gameplay — click to watch](screenshots/gameplay.png)](demo/pong.mov)
 
-[Watch the gameplay demo](demo/pong.mov)
-
+[Open or download the full gameplay video (MOV)](demo/pong.mov)
